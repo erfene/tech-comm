@@ -29,7 +29,7 @@ Nagłówek drugiego poziomu
 ### Emfaza fragmentów tekstu <!---  -->
 
 ### Listy punktowane <!---  -->
-ddfgtygggg
+Punktowane listy używają asterysków, plusów i dywizów (*, + i -) jako znaczników listy. Te trzy znaczniki są wymienne:
 
 ### Listy numerowane <!---  -->
 
