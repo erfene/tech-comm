@@ -31,11 +31,14 @@ Nagłówek drugiego poziomu
 ### Listy punktowane <!---  -->
 Punktowane listy używają asterysków, plusów i dywizów (*, + i -) jako znaczników listy. Te trzy znaczniki są wymienne:
 #### Składnia
+#### Wynik
+```html
 <ul>
 <li>Cukierki.</li>
 <li>Guma.</li>
 <li>Lizaki.</li>
 </ul>
+```
 
 ### Listy numerowane <!---  -->
 
